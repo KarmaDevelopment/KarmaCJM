@@ -1,0 +1,10 @@
+# --------------------------
+#  Karma CustomJoinMessages
+# --------------------------
+# Use '&' for Color Codes.
+# "%player%" is the Placeholder for the player who joined/left the server.
+CustomJoinMessages: true
+JoinMessage: "&8[&a+&8]&b %player%"
+QuitMessage: "&8[&c-&8]&b %player%"
+ReloadMessage: "&aConfig reloaded."
+NoPermission: "&cYou don't have the permission to do this!"
