@@ -1,4 +1,4 @@
-# Karma CustomJoinMessage
+# Karma CustomJoinMessages
 A plugin to create amazing join and quit messages!
 
 Links:
